@@ -1,0 +1,3 @@
+module.exports = {
+    CACHE_TEMPMAIL_LIST: 'CACHE_TEMPMAIL_LIST'
+}
